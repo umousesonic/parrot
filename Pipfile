@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 selenium = "*"
 pyyaml = "*"
+colored = "*"
 
 [dev-packages]
 

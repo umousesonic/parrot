@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5639caf89cf2857119c6bda6ec2dac35e2105d370fc40bda34302f57fb0c1ae3"
+            "sha256": "af22f1f2ce5cb31ef4358e25e54b9ac2a2710ef094a50b56980c4f04d0ecf3d1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -94,6 +94,13 @@
             ],
             "markers": "os_name == 'nt' and implementation_name != 'pypy'",
             "version": "==1.15.0"
+        },
+        "colored": {
+            "hashes": [
+                "sha256:b7b48b9f40e8a65bbb54813d5d79dd008dc8b8c5638d5bbfd30fc5a82e6def7a"
+            ],
+            "index": "pypi",
+            "version": "==1.4.3"
         },
         "cryptography": {
             "hashes": [
